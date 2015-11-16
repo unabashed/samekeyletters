@@ -8,7 +8,7 @@
 #           ▀▀ ▝▀▘▘▝ ▘▝▀▘▘ ▘▝▀▘▗▄▘ ▘▝▀▘ ▀  ▀ ▝▀▘▘  ▀▀ ▝▘▀▀ ▘ ▘
 #
 # Description:
-#   This was inspired by https://what-if.xkcd.com/75/
+#   This was inspired by https://what-if.xkcd.com/75/.
 #
 #   It manages to find out which words demand the maximum amount of 
 #   consecutive keypresses when typed in an old phone keypad 
@@ -19,7 +19,7 @@
 #   I discovered all those languages tie at 6 keypresses.
 #   Except English and Finnish, with 7. 
 #
-#   Finnish's were always at key 8, by the way:
+#   Finnish words were always at key 8, by the way:
 #   kouriintuntuvuutta, muututtua, puututtu, suututtu, ulottuvuuteen, 
 #   uutuutta, uutuuttaan
 #
@@ -28,7 +28,7 @@
 # Found this useful? Appalling? Appealing? Please let me know.
 # The Unabashed welcomes your impressions. 
 #
-# Please drop a line towards the 
+# You will find the
 #   unabashed
 # at the location opposite to
 #   moc • thgimliam
